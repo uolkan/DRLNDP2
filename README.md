@@ -28,7 +28,7 @@ and execute! For more information, please check instructions
 inside the notebook.
 
 # Report
-- [Report](./REPORT for Project 2.pdf)
+- [Report]( ./REPORT for Project 2.pdf)
 
 You can watch the training agent and trained agent videos at below links; 
 
