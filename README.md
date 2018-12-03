@@ -23,12 +23,16 @@ After downloading the project files; create an environment from [Environment](./
 Note: Additionally Unity ML-Agents to be installed by following instructions ([github repository](https://github.com/Unity-Technologies/ml-agents))
  
 # Instructions
-To train the agent, start jupyter notebook, open `Continuous_Control.ipynb`
+To train the agent, start jupyter notebook, open - [`Continuous_Control.ipynb`]( ./Continuous_Control.ipynb)
 and execute! For more information, please check instructions
 inside the notebook.
 
 # Report
-- [Report]( ./report.pdf)
+You can read the report to understand the implemented algorithm and hyperparameters better. 
+- [Report]( ./Report.pdf)
+
+Important Note: All images and charts (except the plot of rewards) in report are from Udacity lecture notes. 
+
 
 You can watch the training agent and trained agent videos at below links; 
 
