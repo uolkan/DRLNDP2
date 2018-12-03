@@ -23,12 +23,12 @@ After downloading the project files; create an environment from [Environment](./
 Note: Additionally Unity ML-Agents to be installed by following instructions ([github repository](https://github.com/Unity-Technologies/ml-agents))
  
 # Instructions
-To train the agent, start jupyter notebook, open `NavigationProject.ipynb`
+To train the agent, start jupyter notebook, open `Continuous_Control.ipynb`
 and execute! For more information, please check instructions
 inside the notebook.
 
 # Report
-- [Report]( ./REPORT for Project 2.pdf)
+- [Report]( ./report.pdf)
 
 You can watch the training agent and trained agent videos at below links; 
 
